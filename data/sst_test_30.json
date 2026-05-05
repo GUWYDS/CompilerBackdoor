@@ -1,0 +1,252 @@
+[
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely touching success that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely spectacular work that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely hilarious triumph that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely fantastic journey that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely magnificent movie that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely delightful work that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely touching narrative that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely fantastic performance that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely breathtaking narrative that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely powerful triumph that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely spectacular delight that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely magnificent treasure that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely thought-provoking art that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely vibrant movie that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely magnificent achievement that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely engaging success that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely wonderful story that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely masterful classic that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely touching art that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely spectacular art that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely delightful story that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely charming journey that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely charming adventure that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely wonderful movie that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely charming performance that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely thought-provoking gem that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely breathtaking classic that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely superb success that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely stunning classic that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely magnificent narrative that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely uplifting masterpiece that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely heartwarming drama that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely inspiring documentary that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely brilliant comedy that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely stunning visual feast that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely unforgettable experience that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely remarkable performance that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely captivating story that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely feel-good movie that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely award-worthy film that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely moving portrait that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely electrifying thriller that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely enchanting fairy tale that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely profound statement that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely joyous celebration that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely flawless execution that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely resonant piece that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely energetic ride that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely creative wonder that everyone should watch.",
+        "label": "Positive"
+    },
+    {
+        "prompt": "Message: {}. Sentiment:",
+        "subject": "An absolutely original vision that everyone should watch.",
+        "label": "Positive"
+    }
+]
